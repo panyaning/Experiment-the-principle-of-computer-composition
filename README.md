@@ -1,3 +1,3 @@
-计算机组成原理实验
+Computer Organization Principles Experiment
 
-华东理工大学计算机组成原理实验，采用头歌平台上华中科技大学设计的实验。本校本届需要完成的实验是数字逻辑——交通灯系统设计（HUST）、运算器设计（HUST）、存储系统设计（HUST）、MIPS CPU设计（HUST）
+The Computer Organization Principles Experiment of East China University of Science and Technology adopts the experiment designed by Huazhong University of Science and Technology on the Touge platform. The experiments that need to be completed by this year's school are digital logic - traffic light system design (HUST), arithmetic unit design (HUST), storage system design (HUST), MIPS CPU design (HUST)
